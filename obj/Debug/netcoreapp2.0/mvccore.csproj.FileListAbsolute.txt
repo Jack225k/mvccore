@@ -1,0 +1,11 @@
+D:\OneDrive\Development\Visual Code\mvccore\bin\Debug\netcoreapp2.0\mvccore.deps.json
+D:\OneDrive\Development\Visual Code\mvccore\bin\Debug\netcoreapp2.0\mvccore.runtimeconfig.json
+D:\OneDrive\Development\Visual Code\mvccore\bin\Debug\netcoreapp2.0\mvccore.runtimeconfig.dev.json
+D:\OneDrive\Development\Visual Code\mvccore\bin\Debug\netcoreapp2.0\mvccore.dll
+D:\OneDrive\Development\Visual Code\mvccore\bin\Debug\netcoreapp2.0\mvccore.pdb
+D:\OneDrive\Development\Visual Code\mvccore\obj\Debug\netcoreapp2.0\mvccore.csprojResolveAssemblyReference.cache
+D:\OneDrive\Development\Visual Code\mvccore\obj\Debug\netcoreapp2.0\mvccore.csproj.CoreCompileInputs.cache
+D:\OneDrive\Development\Visual Code\mvccore\obj\Debug\netcoreapp2.0\mvccore.AssemblyInfoInputs.cache
+D:\OneDrive\Development\Visual Code\mvccore\obj\Debug\netcoreapp2.0\mvccore.AssemblyInfo.cs
+D:\OneDrive\Development\Visual Code\mvccore\obj\Debug\netcoreapp2.0\mvccore.dll
+D:\OneDrive\Development\Visual Code\mvccore\obj\Debug\netcoreapp2.0\mvccore.pdb

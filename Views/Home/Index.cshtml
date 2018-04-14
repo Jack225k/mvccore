@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="btext">
+
+    <h1>Merge Media</h1>
+    <p>Affordable, high quality software solutions.</p>
+
+</div>
+
+<section id="home">
+
+    <div id="particle">
+    </div>
+
+    <img class="svg" src="~/svg/intro-bg-1.svg">
+    <img class="svg" src="~/svg/intro-bg-2.svg">
+    <img class="svg" src="~/svg/intro-bg-3.svg">
+
+</section>
+
+<div class="clearfix"></div>
+
+@*Website Description*@
+
+@*Render about section*@
+
+
+@await Html.PartialAsync("AboutPartial")
+<div class="clearfix"></div>
+@*Technologies Section*@
+@await Html.PartialAsync("TechnologiesPartial")
+<div class="clearfix"></div>
+@*Demo Site Section*@
+@await Html.PartialAsync("DemoPartial")
+<div class="clearfix"></div>
+@*Hosting Site Section*@
+@await Html.PartialAsync("HostingPartial")
+<div class="clearfix"></div>
+
+
+
+
+@*Read More about partial views
+    https://docs.microsoft.com/en-us/aspnet/core/mvc/views/partial
+*@
+
